@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project(test)
+find_package(OpenCV REQUIRED)
+set(cmake_gxx_flags "-o3 -mfpu=neon ")
+add_executable(test main.cpp)
+target_link_libraries(test ${OpenCV_LIBS})

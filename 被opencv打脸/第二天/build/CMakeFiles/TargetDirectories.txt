@@ -1,0 +1,3 @@
+/Users/kkchen/Code/opencv/opencv缩放比较/build/CMakeFiles/rebuild_cache.dir
+/Users/kkchen/Code/opencv/opencv缩放比较/build/CMakeFiles/edit_cache.dir
+/Users/kkchen/Code/opencv/opencv缩放比较/build/CMakeFiles/test.dir
